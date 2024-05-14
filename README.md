@@ -19,7 +19,7 @@ Pousados é uma aplicação Java desenvolvida para gerenciamento de um hotel. Es
 
 1. **Clonar o Repositório**: Clone este repositório em sua máquina local utilizando o seguinte comando:
 
-git clone https://github.com/seu-usuario/pousados.git
+     ``git clone https://github.com/seu-usuario/pousados.git``
 
 3. **Importar Projeto**: Abra o NetBeans IDE e importe o projeto clonado.
 
