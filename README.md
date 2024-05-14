@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/BrennonMeireles/pousados/assets/141636246/d7ccfa1d-1bee-413b-aaa2-efdae76b31c3" alt="image" width="400px">
+</div>
+
+
 # Pousados - Sistema de Gerenciamento de Hotel
 
 Pousados é uma aplicação Java desenvolvida para gerenciamento de um hotel. Este projeto foi realizado como parte de um exercício prático proposto pelo professor de back-end do SENAI. O sistema oferece uma gama de funcionalidades essenciais para a administração eficiente de um hotel, incluindo registro de chegadas, cadastro de clientes, autenticação de usuários e gerenciamento de quartos.
@@ -51,7 +56,8 @@ O projeto Pousada - Gerenciamento de Reservas visa atender às necessidades de u
 - **Armazenamento de Informações**: O sistema armazena informações sobre as reservas, como data de entrada, data de saída, valor da diária e número de quartos.
 - **Cancelamento Automático de Reservas**: Reservas não pagas até três dias antes da data prevista de entrada são canceladas automaticamente pelo sistema.
 - **Relatórios Diários**: O sistema gera relatórios diários, incluindo reservas canceladas, reservas não pagas e reservas a serem efetivadas no dia.
-- **Relatório de Reservas por Período**: Possibilidade de gerar um relatório de reservas para um determinado período.
+- **Relatório de Reservas por Período**: Possibilidade de gerar um relatório de reservas para um determinado período.![Pousados-removebg-preview]
+
 
 ### Requisitos de Interface e Atributos de Qualidade
 
