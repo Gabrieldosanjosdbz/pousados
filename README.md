@@ -40,8 +40,8 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 
 1. Fork do Repositório
 2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Faça commit de suas alterações (`git commit -am 'Adicionando nova funcionalidade'`)
-4. Faça push para a branch (`git push origin feature/MinhaFeature`)
+3. Faça commit de suas alterações   (`git commit -am 'Adicionando nova funcionalidade'`)
+4. Faça push para a branch          (`git push origin feature/MinhaFeature`)
 5. Crie um novo Pull Request
 
 ## Sobre o Projeto
@@ -77,8 +77,8 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 
 1. Fork do Repositório
 2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Faça commit de suas alterações (`git commit -am 'Adicionando nova funcionalidade'`)
-4. Faça push para a branch (`git push origin feature/MinhaFeature`)
+3. Faça commit de suas alterações   (`git commit -am 'Adicionando nova funcionalidade'`)
+4. Faça push para a branch          (`git push origin feature/MinhaFeature`)
 5. Crie um novo Pull Request
 
 Se você tem sugestões de melhorias, novas funcionalidades ou identificou algum problema, sinta-se à vontade para abrir uma nova issue.
