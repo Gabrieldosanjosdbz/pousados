@@ -82,3 +82,9 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 5. Crie um novo Pull Request
 
 Se você tem sugestões de melhorias, novas funcionalidades ou identificou algum problema, sinta-se à vontade para abrir uma nova issue.
+
+<br>
+
+-----
+
+<br>
